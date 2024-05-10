@@ -1,7 +1,7 @@
 # llm-function-calling
 
-building application using opensource llm's functional calling capabilties.
+building application using  llm's functional calling capabilties.
  
-* streaming_output.ipynb
-* phi-3.ipynb
-* structure_output.ipynb
+* loacal-llm/streaming_output.ipynb
+* loacal-llm/phi-3.ipynb
+* loacal-llm/structure_output.ipynb
